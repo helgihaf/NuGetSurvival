@@ -27,8 +27,6 @@ Most commands assume that:
 
 ## Update Package to Lastest Version
 [Reference](https://docs.microsoft.com/en-us/nuget/tools/ps-ref-update-package)
-
-Based on hard experience: Don‘t do this unless you are really sure what you are doing.
 ```powershell
     # Updates all packages in all projects in the solution to latest version
     # Based on hard experience: Only do this if really sure what you are doing.
