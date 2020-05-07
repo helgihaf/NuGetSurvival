@@ -32,6 +32,6 @@ Most commands assume that:
     # Based on hard experience: Only do this if really sure what you are doing.
     Update-Package
     
-    # Updates single packages to the latest version
-    Update-Package -Id Newtonsoft.Json –Reinstall
+    # Updates single package to latest version
+    Update-Package Newtonsoft.Json
 ```
